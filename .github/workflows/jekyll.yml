@@ -1,7 +1,7 @@
 name: Build Jekyll with Custom Baseurl
 on:
   push:
-    branches: ["main"]  # Match your branch
+    branches: ["master"]  # Match your branch
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
