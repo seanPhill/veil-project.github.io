@@ -48,10 +48,14 @@ defaults:
 
 permalink: /:categories/:year/:month/:day/:title/
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - node_modules/
+  - vendor/
   - gulpfile.js
-  - node_modules
   - package.json
   - package-lock.json
   - README.md
