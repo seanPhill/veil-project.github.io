@@ -1,6 +1,6 @@
 development:
   url: "http://127.0.0.1:4000"
-  base_url: ""
+  base_url: ""  # For local root testing
 production:
   url: "https://seanphill.github.io"
-  base_url: "/veil-project.github.io"
+  base_url: "/veil-project.github.io"  # For GitHub Pages fork
