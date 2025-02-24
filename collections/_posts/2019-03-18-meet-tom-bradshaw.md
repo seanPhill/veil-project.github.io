@@ -10,7 +10,7 @@ excerpt: 'In this article, we will get to know the Chief Architect of the Veil n
 description: 'In this article, we will get to know the Chief Architect of the Veil network, Tom Bradshaw (aka @presstab).'
 ---
 
-![](/uploads/team/presstab.jpg)
+![]({{ site.baseurl }}/uploads/team/presstab.jpg)
 
 **Hello Tom! Tell us about yourself prior to getting into crypto. Where were you living? What were you doing? What were your interests?**
 
@@ -88,12 +88,12 @@ Projects I actively contribute to:
 
 - [zDEX](https://zdex.exchange) – masternode based decentralized exchange.
 - Divitia – A social cryptocurrency portfolio tracker that will have its own blockchain (expecting a public beta in the next couple of months).
--  [PIVX](https://pivx.org) – masternodes, Proof-of-Stake, zerocoin, good devs, good community.
+- [PIVX](https://pivx.org) – masternodes, Proof-of-Stake, zerocoin, good devs, good community.
 - [Crown](https://crown.tech) – PoW Dash clone that will phase out PoW with a new staking masternode protocol my team developed.
 
 Projects I don’t contribute to but seem to have decent development:
 
--  [Bitcoin](https://bitcoin.org/en/) – A collaboration of some of the smartest minds in the industry.
+- [Bitcoin](https://bitcoin.org/en/) – A collaboration of some of the smartest minds in the industry.
 - [Dash](https://www.dash.org) – I like that Dash has consistent development and have found some of the developers that I have interacted with to be extremely talented.
 - [Particl](https://particl.io) – A project with unique development that Veil was able to bootstrap some of its cryptography from.
 

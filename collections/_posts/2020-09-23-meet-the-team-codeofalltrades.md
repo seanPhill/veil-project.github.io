@@ -12,7 +12,7 @@ description: 'In this article, we will get to know Veil Core developer, codeofal
 
 In this article we’ll take some time to chat with codeofalltrades, one of Veil’s core developers and the driving force behind Veil’s block explorer and statistics tools. 
 
-![](/uploads/team/codeofalltrades.jpg)
+![]({{ site.baseurl }}/uploads/team/codeofalltrades.jpg)
 
 **What brought you to crypto, and when did you make the leap?**
 

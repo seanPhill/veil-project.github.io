@@ -10,7 +10,7 @@ excerpt: 'Veil’s consensus and reward distribution is changing, and this artic
 description: 'Veil’s consensus and reward distribution is changing, and this article discusses the rationale.'
 ---
 
-![](/uploads/blog/2019-10-29-consensus.png)
+![]({{ site.baseurl }}/uploads/blog/2019-10-29-consensus.png)
 
 Upon announcing Veil prior to the project's launch on January 1st of this year, the team shared details of our hybrid Proof-of-Work/Proof-of-Stake consensus and reward structure. As a refresher, that structure, currently in place, entails mining with Veil's X16RT algorithm (comprising a range of 16 chained algorithms), and staking with Zerocoin denominations minted in the user's wallet. Each of these methods makes up approximately 50% of generated blocks, though PoW can find as many as 5 consecutive blocks before a PoS block must follow.
 

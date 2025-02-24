@@ -10,13 +10,13 @@ excerpt: 'In this article, we’re going to take a deep dive into the Veil super
 description: 'In this article, we’re going to take a deep dive into the Veil superblock milestone.'
 ---
 
-![](/uploads/blog/2019-02-12-superblock.jpg)
+![]({{ site.baseurl }}/uploads/blog/2019-02-12-superblock.jpg)
 
 As the Veil Project grows, we learn and adjust our work to suit the needs of the expanding user base. In the spirit of transparency, we will always make budget information readily available to the public. Even so, we need to expand on some of the important details of how we do business.
 
 A perfect opportunity to share the Veil budget has presented itself in the 43,200th block on the Veil blockchain. This was a superblock and a milestone worth describing. 
 
-![](/uploads/blog/2019-02-12-block.png)
+![]({{ site.baseurl }}/uploads/blog/2019-02-12-block.png)
 
 The superblock contained a sum of veil which served as the first emission of the Veil budget.  
 
@@ -26,7 +26,7 @@ For the founder, the superblock granted the first return on his own seed capital
 
 Here is the simple chart that explains the way the block rewards are divvied up - as seen in the [technology document](https://veil-project.com/technology/)  written in collaboration by [Gabriel Nergaard]( https://keybase.io/lubina) and [members of the Veil team.](https://veil-project.com/team/):
 
-![](/uploads/emission-schedule-white.png)
+![]({{ site.baseurl }}/uploads/emission-schedule-white.png)
 
 Also included in the budget emission is an allocation to Veil Labs, which is our own research and development entity. Veil Labs will always be recruiting talented cryptographers, skilled blockchain developers and blockchain business professionals to add to our impressive consortium. Expansion like this will reinforce Veil’s position as a leading privacy currency that makes itself accessible to the broader cryptocurrency community as a whole. It should be noted that, in alignment with the concept of a fair distribution, the Veil Labs budget allocation will be stored in a multisig address that will not be given the luxury of earning staking rewards until the coins are distributed. The Veil Labs budget can only be spent when 4 of 6 signatories agree to payout from this budget. With a clear view of the spending, our users will be able to easily confirm the fairness of all budget activities.  
 

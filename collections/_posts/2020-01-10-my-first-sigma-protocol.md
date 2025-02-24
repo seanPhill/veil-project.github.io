@@ -14,7 +14,7 @@ description: 'This is the first in a series of publications by Veil mathematicia
 
 Valery is having an existential crisis. She’s color blind, but she is starting to believe that maybe she really isn’t, and that all her friends and family are just conspiring to trick her into believing she is.
 
-![](/uploads/blog/2020-01-12-paul.png)
+![]({{ site.baseurl }}/uploads/blog/2020-01-12-paul.png)
 
 Along comes Peter, her uncle, and Valery starts venting her conspiracy theory to him.
 

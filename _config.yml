@@ -1,6 +1,7 @@
 title: Veil
 description: Veil is integrating best-in-class anonymity technologies to become the first cryptocurrency that provides uncompromising, always-on privacy. 
-url: https://veil-project.com
+url: "https://seanphill.github.io"
+baseurl: "/veil-project.github.io"
 logo: /icons/logo.jpg
 social:
   links:

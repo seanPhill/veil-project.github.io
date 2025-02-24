@@ -40,7 +40,7 @@ through consideration of psychological and communication principles to that end.
 
 ## Part 1: User Intent
 
-![](/uploads/blog/asdf1.png)
+![]({{ site.baseurl }}/uploads/blog/asdf1.png)
 
 Picture two women chatting over a coffee. Woman A says she's ready to find a
 husband and have children. Woman B asks woman A what qualities she's looking for
@@ -70,7 +70,7 @@ establish a degree of order in the perceived chaos. To facilitate this, try
 being mindful of these *3 don't Ds*: **Don't distract**. **Don't detract**.
 **Don't digress**.
 
-![](/uploads/blog/asdf2.png)
+![]({{ site.baseurl }}/uploads/blog/asdf2.png)
 
 
 ## Don't distract!
@@ -101,7 +101,7 @@ posing questions and offering solutions via design:
 | How do I get started?                    | Begin with receive page, displaying the first tutorial pop-up (succinct and preferably visual) and carefully introducing *only* relevant terms                                                                                                                                                                                      |
 | Where do I stand?                        | After receiving currency, direct the user to the Overview page so they may see their balance and transaction history if they wish—they've achieved a goal, so let them soak it up! The user should also be made aware of the Send page and additional security measures such as locking wallet and 2fa at this point in a first run |
 
-![](/uploads/blog/asdf3.png)
+![]({{ site.baseurl }}/uploads/blog/asdf3.png)
 
 ## Don't detract!
 

@@ -10,7 +10,7 @@ description: 'The Veil development team have just released version 1.0.3.1 of th
 
 The Veil development team have just released version 1.0.3.1 of the Veil Core Wallet.
 
-![](/uploads/blog/2019-07-02-wallet.png)
+![]({{ site.baseurl }}/uploads/blog/2019-07-02-wallet.png)
 
 **Updates for 1.0.3.1 include:**
 

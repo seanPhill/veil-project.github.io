@@ -12,7 +12,7 @@ description: 'This article provides insight into Veil project developments for t
 
 Welcome to the October monthly Veil project update article. October was a very eventful month as Veil saw a new wallet version release, the Proof-of-Work fork, and a new exchange listing.
 
-![](/uploads/news/2020-11-06-update.png)
+![]({{ site.baseurl }}/uploads/news/2020-11-06-update.png)
 
 ## Development updates
 
@@ -56,7 +56,7 @@ Alongside the new wallet version, we've also recently established some new busin
 
 WoolyPooly provided Veil with a solid testnet pool for testing 1.1 mining in the lead up to mainnet release. WoolyPooly joins our list of mining pools supporting Veil (find a complete list [here](https://veil-project.com/mining/)).
 
-![](/uploads/news/2020-11-06-woolypooly.png)
+![]({{ site.baseurl }}/uploads/news/2020-11-06-woolypooly.png)
 
 For a limited time WoolyPooly and Veil are running a campaign providing miners with additional mining rewards. Between now and November 11th, 2:00 PM UTC, every ProgPoW block found on the pool will earn an extra 2.834 VEIL, distributed in proportion to hash power contribution.
 
@@ -64,7 +64,7 @@ To learn more, either visit the Veil Discord server or the [WoolyPooly Discord s
 
 ### TradeOgre exchange listing
 
-![](/uploads/news/2020-11-06-tradeogre.png)
+![]({{ site.baseurl }}/uploads/news/2020-11-06-tradeogre.png)
 
 We're also pleased to offer our users another exchange that now lists VEIL. TradeOgre offers a BTC-VEIL market, has no KYC, and no limits. You can visit [TradeOgre's VEIL market here](https://tradeogre.com/exchange/BTC-VEIL).
 

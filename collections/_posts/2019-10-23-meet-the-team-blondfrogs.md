@@ -11,7 +11,7 @@ description: 'In this article, we will get to know Veil developer, Blondfrogs'
 ---
 This article is a continuation of our series of interviews with members of the Veil team. In this installment, we’ll meet Veil's PoW Development Lead  Jeremy Anderson aka blondfrogs.
 
-![](/uploads/team/blondfrogs.jpg)
+![]({{ site.baseurl }}/uploads/team/blondfrogs.jpg)
 
 **Tell us about yourself prior to getting into crypto. Where were you living? What were you doing? What were your interests?**
 

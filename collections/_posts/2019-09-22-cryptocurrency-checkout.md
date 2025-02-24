@@ -12,7 +12,7 @@ description: 'Veil has been added as a payment option to the versatile payment g
 
 Veil has been added as a payment option to the versatile payment gateway Cryptocurrency Checkout. Through this, users can accept VEIL payments on a number of popular platforms, making it easier than ever to pay and receive veil for goods, services, and donations.
 
-![](/uploads/blog/2019-09-22-cryptocurrency-checkout.png)
+![]({{ site.baseurl }}/uploads/blog/2019-09-22-cryptocurrency-checkout.png)
 
 ## What can Cryptocurrency Checkout do?
 

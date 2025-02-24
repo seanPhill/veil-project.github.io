@@ -78,7 +78,7 @@ Prizes will be drawn on the 20th of November using a randomizer website.
 
 ### Veil testnet promotion on WoolyPooly
 
-![](/uploads/blog/2020-10-02-WPCtestnet.png)
+![]({{ site.baseurl }}/uploads/blog/2020-10-02-WPCtestnet.png)
 
 In addition to the above promotion, users on WoolyPooly mining Veil's testnet during the testnet period will be eligible to a share of **7200 mainnet veil**. This amount will be distributed to miners over the course of the testnet period.
 

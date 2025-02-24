@@ -12,7 +12,7 @@ description: 'This article covers the procedure to follow for mining (ProgPoW, R
 
 This article covers the procedure to follow for mining after the October 31 Veil 1.1 hard fork.
 
-![](/uploads/blog/2020-11-15-howtomine.png)
+![]({{ site.baseurl }}/uploads/blog/2020-11-15-howtomine.png)
 
 After the 31.10.2020 Hard Fork you can mine Veil with:
 

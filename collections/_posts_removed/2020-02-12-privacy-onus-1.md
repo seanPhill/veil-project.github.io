@@ -33,7 +33,7 @@ In Chinese privacy is written as 隐私, with the separate characters 隐 meanin
 
 Why is privacy important though? The noun *privy*, sharing [etymology roots](https://www.etymonline.com/word/privy) with privacy, has been used for a toilet for many centuries. Privacy at such a time shields us from shame, indignation, and of course [anxiety](https://en.wikipedia.org/wiki/Paruresis) in the heightened state of vulnerability.
 
-![](/uploads/blog/2020-02-12-onuspic1.png)
+![]({{ site.baseurl }}/uploads/blog/2020-02-12-onuspic1.png)
 
 The application of privacy is not, however, homogeneous globally. The call for privacy in different circumstances [depends on culture](https://en.wikipedia.org/wiki/Privacy_law). The Japanese, for example, are relatively open with nudity. Despite any vulnerability it presents, the Japanese bathe nude in public baths, even [mixing sexes](https://en.wikipedia.org/wiki/Onsen#Mixed_bathing) in some scenarios. The character 私 used for *private* in Chinese is used in Japanese as *I/me*. This is fitting for a culture so reluctant to share thoughts and feelings. What necessitates privacy varies between cultures, but the privacy concept is metaculturally present.
 
@@ -76,7 +76,7 @@ If the conventional definition is insufficient, and a more fitting one yet elude
 
 As we explored previously, and as Lukács writes, culture influences the face of privacy. Cultures teach **privacy boundaries through etiquette lessons or through heuristic trial-and-error**. Embarrassment from these errors ensures they're not repeated. In Indonesia, even when given access to food or drink, a guest must wait to be invited before partaking, lest commit a faux pas. In Japan, even when permitted entry to someone's home, it's customary to announce your entry. Guests use the phrase お邪魔します as an acknowledgement that they are about to disturb the hosts personal sanctuary.
 
-![](/uploads/blog/2020-02-12-onuspic2.png)
+![]({{ site.baseurl }}/uploads/blog/2020-02-12-onuspic2.png)
 
 The participant culture doesn't necessarily need to be a national one either, as signaled by the symbolism of a [sock on a door handle](https://www.urbandictionary.com/define.php?term=doorsock). Demonstratively, cultural practice of privacy historically requires adherence not to [budding laws](https://en.wikipedia.org/wiki/Privacy_law), but to a [social contract](https://en.wikipedia.org/wiki/Social_contract)—the sacrificing of one's freedom to invade someone else's privacy in return for respect for their own.
 

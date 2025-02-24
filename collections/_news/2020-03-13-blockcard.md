@@ -12,7 +12,7 @@ description: 'Thanks to Ternio BlockCard, Veil Project will soon be the first pr
 
 Shop at over 45 million merchants: Apple Pay, Google Pay, and Debit Cards just around the corner!
 
-![](/uploads/blog/2020-03-13-blockcard.png)
+![]({{ site.baseurl }}/uploads/blog/2020-03-13-blockcard.png)
 
 Thanks to [Ternio BlockCard]( https://getblockcard.com/), Veil Project will soon be the first privacy focused blockchain with a debit card usable anywhere major credit cards are accepted worldwide! That’s over 45 million merchants with the added convenience of Apple Pay, Google Pay, and Samsung Pay all in one. 
 

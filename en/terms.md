@@ -16,7 +16,7 @@ In order to take advantage of Veil's software and services, users must abide by 
  - Veil software should not under any circumstances be altered in an attempt to defraud the Veil network, its users, or exchanges and services reliant on the Veil network
  - Any and all uses of open source material pertaining to Veil project software and source code must abide by the accompanying license and copyright notices. Veil is open-source, and covered by the MIT License. 
  
- <!--- Further information on Veil's license and copyright information can be found [here](/license/) --->
+ <!--- Further information on Veil's license and copyright information can be found [here]({{ site.baseurl }}/license/) --->
 
 ## Discord, Forums, and Social Media
 
@@ -31,7 +31,7 @@ In order to take advantage of Veil's software and services, users must abide by 
 
  - Anyone cloning or forking Veil's source code is expected to abide by licenses and copyright notices contained therein.
  
- <!--- Further information on Veil's policy on clones and forks can be found [here](/license/) --->
+ <!--- Further information on Veil's policy on clones and forks can be found [here]({{ site.baseurl }}/license/) --->
 
 ## Participating in Veil Bounty Program
 
@@ -39,7 +39,7 @@ In order to take advantage of Veil's software and services, users must abide by 
  - Anyone wishing to be paid a bounty is required to provide a valid Veil address to which remittance will be paid.
  - Anyone taking on bounties acknowledges that the completion of a bounty is ultimately determined by a Veil staff review, involving one or more staff dependent on the size of the bounty and task. This is to ensure the high standards the Veil project holds itself to are maintained through any work contributed by bounty hunters.
  
- Further information on the Veil Bounty Program can be found [here](/get-started/)
+ Further information on the Veil Bounty Program can be found [here]({{ site.baseurl }}/get-started/)
 
 # Use of Veil Support Service
 

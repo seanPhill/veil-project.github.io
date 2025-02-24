@@ -11,4 +11,4 @@ lead: 'Find resources for press and media personnel, including media kit, press 
 For press inquires, please email [press@veil-project.com](mailto:press@veil-project.com).
 
 ## Press kit
-Download the [Veil press kit](/uploads/veil_presskit.zip). All images in the press kit fall under the [Creative Commons Attribution-NoDerivs 3.0](https://creativecommons.org/licenses/by-nd/3.0/us/) license.
+Download the [Veil press kit]({{ site.baseurl }}/uploads/veil_presskit.zip). All images in the press kit fall under the [Creative Commons Attribution-NoDerivs 3.0](https://creativecommons.org/licenses/by-nd/3.0/us/) license.

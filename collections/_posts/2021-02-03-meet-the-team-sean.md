@@ -12,7 +12,7 @@ description: 'In this article we speak with Sean, Veil’s QA and support guru, 
 
 In this article we speak with Sean, Veil's QA and support guru.
 
-![](/uploads/team/sean.jpg)
+![]({{ site.baseurl }}/uploads/team/sean.jpg)
 
 **How did you get started with cryptocurrency?**
 

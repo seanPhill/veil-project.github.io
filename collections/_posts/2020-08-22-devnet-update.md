@@ -12,7 +12,7 @@ description: 'Core Developer CaveSpectre gives us a look into a challenge overco
 
 In the near future we will be restarting the devnet chain to incorporate changes to the difficulty algorithms. These changes come from divergences in the Dark Gravity Wave algorithm and our use of multiple independent algorithms.
 
-![](/uploads/blog/2020-08-22-devnet.png)
+![]({{ site.baseurl }}/uploads/blog/2020-08-22-devnet.png)
 
 The multiple algorithm model in Veil has independent spacing goals for the different algorithms in order to aim for a desired distribution. The way this works is the algorithm rolls back through the chain to find the previous 60 blocks, determines the time between the first and the last of the series, and uses that time to determine if it's been faster, or slower, than the target spacing; and adjusts the difficulty accordingly.
 

@@ -5,8 +5,8 @@
   <!-- <div data-price up-keep up-id="marketprice1" class="flex-none p-4 font-medium text-sm"><span class="text-white opacity-25">Loading...</span></div> -->
 
   <a up-dash href="{{ home.url }}" class="VeilNav-logo flex flex-col items-center justify-center">
-    <span class="VeilNav-logo-icon"><img src="/dist/img/logo-icon.png" class="w-16" alt=""></span>
-    <span class="VeilNav-logo-type"><img src="/dist/img/logo-text.png" class="w-12" alt=""></span>
+    <span class="VeilNav-logo-icon"><img src="{{ site.baseurl }}/dist/img/logo-icon.png" class="w-16" alt=""></span>
+    <span class="VeilNav-logo-type"><img src="{{ site.baseurl }}/dist/img/logo-text.png" class="w-12" alt=""></span>
   </a>
 
   <nav class="VeilNav-menu p-10">
@@ -14,31 +14,31 @@
      <span class="block mb-1 mt-8 uppercase tracking-wide font-medium text-teal text-sm">
       About
     </span>
-    <a up-dash class="block text-lg text-white" href="/about/">About</a>
-    <a up-dash class="block text-lg text-white" href="/team/">Team</a>
-    <!-- <a up-dash class="block text-lg text-white" href="/veil-labs/">Labs</a> -->
-    <a up-dash class="block text-lg text-white" href="/press/">Press & Media</a>
-    <!-- <a up-dash class="block text-lg text-white" href="/license/">License</a> Activate this only when the programme is activated. -->
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/about/">About</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/team/">Team</a>
+    <!-- <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/veil-labs/">Labs</a> -->
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/press/">Press & Media</a>
+    <!-- <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/license/">License</a> Activate this only when the programme is activated. -->
 
     <span class="block mb-1 mt-8 uppercase tracking-wide font-medium text-teal text-sm">
       News
     </span>
-    <a up-dash class="block text-lg text-white" href="/news/">News</a>
-    <a up-dash class="block text-lg text-white" href="/blog/">Blog</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/news/">News</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/blog/">Blog</a>
 
     <span class="block mb-1 mt-8 uppercase tracking-wide font-medium text-teal text-sm">
       Tech
     </span>
-    <a up-dash class="block text-lg text-white" href="/technology/">Overview</a>
-    <a up-dash class="block text-lg text-white" href="/specs/">Specifications</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/technology/">Overview</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/specs/">Specifications</a>
 
     <span class="block mb-1 mt-8 uppercase tracking-wide font-medium text-teal text-sm">
       Resources
     </span>
-    <a up-dash class="block text-lg text-white" href="/get-started/">Wallet</a>
-    <a up-dash class="block text-lg text-white" href="/mining/">Mining</a>
-    <a up-dash class="block text-lg text-white" href="/exchanges/">Exchanges</a>
-    <a up-dash class="block text-lg text-white" href="/bounties/">Bounties</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/get-started/">Wallet</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/mining/">Mining</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/{ site.baseurl }}/exchanges/">Exchanges</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/bounties/">Bounties</a>
     <a class="block text-lg text-white" href="https://explorer.veil-project.com" target="_blank" rel="noopener noreferrer">Explorer</a>
     <a class="block text-lg text-white" href="https://veil.tools" target="_blank" rel="noopener noreferrer">Tools</a>
     <!-- <a class="block text-lg text-white" href="https://veil-stats.com" target="_blank" rel="noopener noreferrer">Network Stats</a> Until veil-stats comes back or a new comes online -->
@@ -47,9 +47,9 @@
     <span class="block mb-1 mt-8 uppercase tracking-wide font-medium text-teal text-sm">
       Support
     </span>
-    <a up-dash class="block text-lg text-white" href="/faqs/">FAQs</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/faqs/">FAQs</a>
     <a class="block text-lg text-white" href="https://veil.freshdesk.com/support/home" target="_blank" rel="noopener noreferrer">Support Portal</a>
-    <a up-dash class="block text-lg text-white" href="/contact/">Contact</a>
+    <a up-dash class="block text-lg text-white" href="{{ site.baseurl }}/contact/">Contact</a>
   </nav>
 
   <button class="VeilNav-menuBtn" onclick="$('.VeilNav').toggleClass('is-open');return false"></button>
@@ -58,7 +58,7 @@
 <div up-fixed="top" class="VeilNav hidden md:block fixed z-50 pin-t pin-x" up-nav>
   <div class="h-20 md:h-24 flex items-center justify-between uppercase text-sm font-medium tracking-wide">
     <a up-dash href="{{ home.url }}" class="flex-none px-8">
-      <img src="/dist/img/logo.png" alt="Veil" width="88">
+      <img src="{{ site.baseurl }}/dist/img/logo.png" alt="Veil" width="88">
     </a>
     <nav class="absolute pin-y pin-x-center flex items-center">
       <div class="Dropdown text-white opacity-75 hover:opacity-100">
@@ -66,11 +66,11 @@
           About
         </span>
         <div class="Dropdown-menu">
-          <a up-dash class="hover:text-blue" href="/about/">About</a>
-          <a up-dash class="hover:text-blue" href="/team/">Team</a>
-         <!--  <a up-dash class="hover:text-blue" href="/veil-labs/">Labs</a> -->
-          <a up-dash class="hover:text-blue" href="/press/">Press & Media</a>
-          <!-- <a up-dash class="hover:text-blue" href="/license/">License</a> -->
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/about/">About</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/team/">Team</a>
+         <!--  <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/veil-labs/">Labs</a> -->
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/press/">Press & Media</a>
+          <!-- <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/license/">License</a> -->
         </div>
       </div>
       <div class="Dropdown text-white opacity-75 hover:opacity-100">
@@ -78,8 +78,8 @@
           News
         </span>
         <div class="Dropdown-menu">
-          <a up-dash class="hover:text-blue" href="/news/">News</a>
-          <a up-dash class="hover:text-blue" href="/blog/">Blog</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/news/">News</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/blog/">Blog</a>
         </div>
       </div>
       <div class="Dropdown text-white opacity-75 hover:opacity-100">
@@ -87,8 +87,8 @@
           Tech
         </span>
         <div class="Dropdown-menu">
-          <a up-dash class="hover:text-blue" href="/technology/">Overview</a>
-          <a up-dash class="hover:text-blue" href="/specs/">Specifications</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/technology/">Overview</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/specs/">Specifications</a>
         </div>
       </div>
       <div class="Dropdown text-white opacity-75 hover:opacity-100">
@@ -96,10 +96,10 @@
           Resources
         </span>
         <div class="Dropdown-menu">
-          <a up-dash class="hover:text-blue" href="/get-started/">Wallet</a>
-          <a up-dash class="hover:text-blue" href="/mining/">Mining</a>
-          <a up-dash class="hover:text-blue" href="/exchanges/">Exchanges</a>
-          <a up-dash class="hover:text-blue" href="/bounties/">Bounties</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/get-started/">Wallet</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/mining/">Mining</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/exchanges/">Exchanges</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/bounties/">Bounties</a>
           <a class="hover:text-blue" href="https://explorer.veil-project.com" target="_blank" rel="noopener noreferrer">Explorer</a>
           <a class="hover:text-blue" href="https://veil.tools" target="_blank" rel="noopener noreferrer">Tools</a>
           <!-- <a class="hover:text-blue" href="https://veil-stats.com" target="_blank" rel="noopener noreferrer">Network Stats</a> until back online -->
@@ -111,9 +111,9 @@
           Support
         </span>
         <div class="Dropdown-menu">
-          <a up-dash class="hover:text-blue" href="/faqs/">FAQs</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/faqs/">FAQs</a>
           <a class="hover:text-blue" href="https://veil.freshdesk.com/support/home" target="_blank" rel="noopener noreferrer">Support Portal</a>
-          <a up-dash class="hover:text-blue" href="/contact/">Contact</a>
+          <a up-dash class="hover:text-blue" href="{{ site.baseurl }}/contact/">Contact</a>
         </div>
       </div>
     </nav>

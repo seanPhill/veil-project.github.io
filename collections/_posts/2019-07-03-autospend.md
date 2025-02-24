@@ -28,7 +28,7 @@ Let's get started!
  
 **Disclaimer:** The `""` means that the wallet will generate an address for you. This is done to protect your wallet from generating too many addresses for Autospend. The `2` means the wallet will spend up to two denoms for the selected denom for each spend. The `10` is the selected denom to spend.
  
-![](/uploads/blog/2019-07-03-autospend1.gif)
+![]({{ site.baseurl }}/uploads/blog/2019-07-03-autospend1.gif)
  
 ## Stopping Autospend
 
@@ -38,6 +38,6 @@ Let's get started!
  
 `stopautospend`
 
-![](/uploads/blog/2019-07-03-autospend2.gif)
+![]({{ site.baseurl }}/uploads/blog/2019-07-03-autospend2.gif)
  
 That's all there is to it. If you find yourself having trouble or with further questions about autospending, don't hesitate to ask Veil staff on our [Discord](https://discord.veil-project.com/) or [Telegram](https://telegram.veil-project.com/).

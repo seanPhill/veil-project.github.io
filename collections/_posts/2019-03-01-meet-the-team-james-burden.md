@@ -11,7 +11,7 @@ description: 'In this article, we will get to know the Veil founder, James Burde
 ---
 This article is the first in a series of interviews with members of the Veil team, starting naturally with our project's founder, **Mr. James Burden**.
 
-![](/uploads/team/4x13.jpg)
+![]({{ site.baseurl }}/uploads/team/4x13.jpg)
 
 **Hello James! Tell us about yourself prior to getting into crypto. Where were you living? What were you doing? What were your interests?**
 

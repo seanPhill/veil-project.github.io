@@ -9,7 +9,7 @@ description: 'We have partnered with top bounty management team BountyCloud for 
 ---
 Veil is proud to announce our bounty program launched March 27th, 2019. We have partnered with top bounty management team BountyCloud for the program and hope to provide bounty hunters with a fair and seamless way to contribute and earn veil.
 
-![](/uploads/blog/2019-03-27-bounty.png)
+![]({{ site.baseurl }}/{ site.baseurl }}/uploads/blog/2019-03-27-bounty.png)
 
 The bounty program offers a wide variety of campaigns to create content for and promote Veil, making it accessible to more people in the crypto community.
 

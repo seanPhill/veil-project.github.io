@@ -12,7 +12,7 @@ description: 'Recently the Veil team held a staff conference to consolidate plan
 
 Recently the Veil team held a staff conference to consolidate plans for the project and its various aspects. While we’re not able to share news on all of what was discussed just yet, the following provides some information on what to expect from Veil in the future.
 
-![](/uploads/blog/2019-06-25-meeting.png)
+![]({{ site.baseurl }}/uploads/blog/2019-06-25-meeting.png)
 
 ## Version 1.0.3.1 release and development bounty update
 

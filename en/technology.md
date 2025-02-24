@@ -19,13 +19,13 @@ The Veil Project is working to improve the state of privacy-focused cryptocurren
 
 - To strengthen on-chain privacy, Veil integrated **RingCT** from Particl, allowing Basecoin transactions to be converted for full anonymity. This ensures that users can transact privately while benefiting from the most advanced privacy technology available today.
 
-- Veil originally integrated the **Zerocoin** protocol, leveraging **zero-knowledge proofs** for enhanced privacy. While direct Zerocoin transactions are being phased out due to [security concerns discovered in 2019](/blog/2019-09-07-exploit-update/), the Veil network continues to support Zerocoin through **minting via RingCT**, ensuring full privacy while staking.
+- Veil originally integrated the **Zerocoin** protocol, leveraging **zero-knowledge proofs** for enhanced privacy. While direct Zerocoin transactions are being phased out due to [security concerns discovered in 2019]({{ site.baseurl }}/blog/2019-09-07-exploit-update/), the Veil network continues to support Zerocoin through **minting via RingCT**, ensuring full privacy while staking.
 
 - The existing version of Veil includes a de-anonymized, safe, implementation of Zerocoin.
 
 - Veil implements a hybrid **Proof-of-Work** (PoW) and **Proof-of-Stake** (PoS) consensus system, providing both fair distribution, and an unprecedented level of protocol security.
 
-- Veil is the only protocol in the industry supporting [three separate proof-of-work algorithms](/blog/pow-update/), together with a private proof-of-stake algorithm, thereby providing **fair distribution to ASICs, GPUs and CPUs**.
+- Veil is the only protocol in the industry supporting [three separate proof-of-work algorithms]({{ site.baseurl }}/blog/pow-update/), together with a private proof-of-stake algorithm, thereby providing **fair distribution to ASICs, GPUs and CPUs**.
 
 - Use of the **Dandelion protocol** makes it nearly impossible to trace a transaction back to its source node on the network.
 
@@ -43,9 +43,9 @@ And ready for use with the RingCT protocol release (where spending and staking a
 
 ## The Veil emission schedule
 
-![](/uploads/emission-schedule-white-is_obsolete_.jpg)
+![]({{ site.baseurl }}/uploads/emission-schedule-white-is_obsolete_.jpg)
 
-[Edit December 2022: Correcting the emissions schedule to account for well-publicised events in 2019 relating to zerocoins, and leading to the founder giving up the founder reward. _For the benefit of newer Veil users, and a reminder to old, here is the announcement relating to it:_ [2019-08-exploit](/news/2019-08-exploit/).] Related details also are in: [2019-07-07-exploit-update](/blog/2019-09-07-exploit-update/). To see how this has played out in the actual Veil Superblocks, and where the founder reward was eliminated, check this retrospective superblocks data ([spreadsheet PDF](/uploads/Superblocks.202402.pdf)). 
+[Edit December 2022: Correcting the emissions schedule to account for well-publicised events in 2019 relating to zerocoins, and leading to the founder giving up the founder reward. _For the benefit of newer Veil users, and a reminder to old, here is the announcement relating to it:_ [2019-08-exploit]({{ site.baseurl }}/news/2019-08-exploit/).] Related details also are in: [2019-07-07-exploit-update]({{ site.baseurl }}/blog/2019-09-07-exploit-update/). To see how this has played out in the actual Veil Superblocks, and where the founder reward was eliminated, check this retrospective superblocks data ([spreadsheet PDF]({{ site.baseurl }}/uploads/Superblocks.202402.pdf)). 
 
 As summarized in the table, the Veil coin emission schedule includes:
 

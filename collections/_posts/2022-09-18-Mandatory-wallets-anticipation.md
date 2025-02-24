@@ -18,7 +18,7 @@ This will enable users who do not want to maintain a full node to hold Veil in t
 
 ## The ProgPoW DAG size reduction for proof of work miners is imminent
 
-The DAG-size reduction had to wait until *after* the [1.3.0.0 Veil core release](/news/2022-wallet-130/) to ensure that all of the popular ProgPoW mining software would support the reduction.
+The DAG-size reduction had to wait until *after* the [1.3.0.0 Veil core release]({{ site.baseurl }}/news/2022-wallet-130/) to ensure that all of the popular ProgPoW mining software would support the reduction.
 
 While the Veil mining community is eager to get started using mining GPUs with smaller memory before the existing code makes it impossible to mine, until we reach the deadline for the change those with larger GPUs, including former Ethereum miners are able to mine all the Veil they can possibly get!
 

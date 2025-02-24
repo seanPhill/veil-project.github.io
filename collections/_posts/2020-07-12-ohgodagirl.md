@@ -14,7 +14,7 @@ Veil is quickly approaching a landmark as changes to the Proof-of-Work aspect of
 
 Earlier, I had the pleasure of interviewing Kristy-Leigh ‘OhGodAGirl’ Minehan, a technology, hardware, and cryptocurrency mining icon, about ProgPoW and her assessment of Veil’s Proof-of-Work changes.
 
-![](/uploads/blog/2020-07-12-ohgodagirl.png)
+![]({{ site.baseurl }}/uploads/blog/2020-07-12-ohgodagirl.png)
 
 **S:** So Kristy, you’ve mentioned various pressures you foresee from mining changes taking place in the space...centralization coming about etc. I know this was primarily ETH-based, but I'm wondering about your feelings towards Veil's new PoW model moving forward. I guess a key question I'd have is 'Is ProgPoW a wise decision for a small project like Veil'?
 

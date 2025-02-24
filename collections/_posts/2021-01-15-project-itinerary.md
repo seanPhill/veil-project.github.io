@@ -10,11 +10,11 @@ excerpt: 'With 2020 behind us and a new year before us, it’s once again time t
 description: 'This article shines light on Veil’s 2021 project development objectives, giving insight into what’s to come in the new year.'
 ---
 
-![](/uploads/news/2021-01-13-Itinerary.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-Itinerary.png)
 
 With [2020 behind us](https://veil-project.com/news/2020-december-update/) and a new year before us, it’s once again time the Veil team give a peek behind the curtain. This article covers some of the larger development objectives of 2021. Note that these items aren’t necessarily in any particular order, and that we’ll have more information on their release as time progresses.
 
-![](/uploads/news/2021-01-13-RingCTS.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-RingCTS.png)
 
 # What it means
 ## RingCT staking will provide Veil users with a means of staking held veil privately, and without complicated minting.
@@ -24,7 +24,7 @@ With the upcoming 1.2 version update staking will move to RingCT. This will once
 (Those steps presently being to first convert funds to RingCT, mint them to Zerocoin, and then stake).
 The simplicity this update will bring also means far less time spent waiting for coins to mature as they move between coin types to stake. It also means far more coins will be held in RingCT, greatly improving both the privacy and speed with which RingCT transactions take place.
 
-![](/uploads/news/2021-01-13-Consolidation.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-Consolidation.png)
 
 # What it means
 ## Consolidation of user funds to the RingCT coin type drastically simplifies the user experience, greatly reduces wait times changing between coin types, gives held coins anonymity, and makes spending privately a breeze.
@@ -35,19 +35,19 @@ The shift to RingCT will inevitably require balances that exist in other coin ty
 
 Once the consolidation takes place, the simplification of coin types will open the way for easier UX/UI, easier implementation on exchanges and platforms, and deliver to users the overall smoother privacy experience for which we strive.
 
-![](/uploads/news/2021-01-13-VeilX.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-VeilX.png)
 
 # What it means
 ## Veil X represents a brand new Veil wallet GUI focused on a streamlined user experience and more accessible functionality.
 
-![](/uploads/blog/2020-03-01-wallet-08.png)
+![]({{ site.baseurl }}/uploads/blog/2020-03-01-wallet-08.png)
 Veil X is something we’ve [teased in 2020](https://veil-project.com/blog/veil-x-preview/), and something we’ve had a very positive reaction to.
 
 Veil X is a unique, custom-built wallet GUI for Veil with a number of [user-focused features](https://veil-project.com/blog/veil-x-ux/). It was built by industry veterans [Makalu](https://makaluinc.com/), incorporating their years of experience and expertise while also considering feedback from the Veil team and community.
 
 Veil X is designed specifically for version 1.2 and RingCT so their releases will coincide closely. More features are planned for Veil X in the future, one of which can be read about in the next section.
 
-![](/uploads/news/2021-01-13-VLS.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-VLS.png)
 
 # What it means
 ## Veil Link Server (VLS) opens opportunities not previously available with Veil such as a light wallet potential through Veil X, hardware wallet optimization, and mobile wallet support.
@@ -56,7 +56,7 @@ A shared back-end server, VLS functions similarly to a block explorer, though it
 
 VL S is not a top priority presently, but as it supplements upcoming releases it is safe to assume it will become one once version 1.2 is released.
 
-![](/uploads/news/2021-01-13-QtImp.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-QtImp.png)
 
 # What it means
 ## Ongoing improvements to the Veil Core Qt wallet, including functionality, usability, and aesthetic tweaks.
@@ -67,12 +67,12 @@ In 2021, these improvements will continue, and will become more noticeable as we
 
 While it’s unlikely these improvements will receive dedicated articles, they will be mentioned in release notes and version announcement articles, so keep your eyes peeled!
 
-![](/uploads/news/2021-01-13-Luxgate.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-Luxgate.png)
 
 # What it means
 ## Luxgate Veil support opens an avenue of VEIL trade not subject to the limitations seen in most exchanges.
 
-![](/uploads/news/2021-01-13-Luxdemo.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-Luxdemo.png)
 
 [Luxgate](https://luxcore.io/luxgate/) (by LuxCore) is a partnership Veil have been fostering for some time. Currently in alpha, Luxgate is a decentralized exchange platform that does away with many of the inconveniences and privacy concessions of other exchanges.
 
@@ -80,7 +80,7 @@ Luxgate does not require accounts, sets no limits, and takes no fees. It also pr
 
 To view Luxgate’s alpha demo, [visit here](https://www.youtube.com/watch?v=R2oAs1ddOLY).
 
-![](/uploads/news/2021-01-13-Dandelion.png)
+![]({{ site.baseurl }}/uploads/news/2021-01-13-Dandelion.png)
 
 # What it means
 ## Dandelion++ offers an additional layer of privacy by obfuscating the origin of transactions on the network.

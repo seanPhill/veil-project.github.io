@@ -12,7 +12,7 @@ description: 'This article provides insight into Veil project developments for t
 
 Welcome to the November monthly Veil project update article. November saw the team focus mainly on quality of life developments, operational optimization, and expansion of promotion into the Chinese market.
 
-![](/uploads/news/2020-12-07-NovemberUpdate.png)
+![]({{ site.baseurl }}/uploads/news/2020-12-07-NovemberUpdate.png)
 
 ## Development updates
 

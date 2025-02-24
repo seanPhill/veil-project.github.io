@@ -12,12 +12,12 @@ description: 'Added another Veil wallet setup guide for the GUI wallet has been 
 
 ## Helpful changes to the Veil Core wallet code ready for a minor update (coming soon)
 - A reminder in the command line (or Debug Console) help that "dumpprivkey" and "dumpwallet" does not include private keys for stealth addresses. "Use wallet.dat file or seed words for complete backup". This note is also now added to the output of dumpwallet, to be sure.  
-- The "Overview" wallet page in the GUI wallet is where we normally see a list of transactions, but when someone starts the wallet without any transactions yet, it shows some information to help them get started! People can forget all about these things once a single transaction appears, and there was no way to see that page again! You might know it as the ["Looks like you are new here" page](/uploads/blog/2023-06-11-LooksLikeYouAreNewHerePage.png)! So a helpful contributor made a very neat way of displaying it again whenever you want, which also as a side-effect made the existing in-wallet FAQ **much more accessible**! The link to Veil.tools now works there too.
+- The "Overview" wallet page in the GUI wallet is where we normally see a list of transactions, but when someone starts the wallet without any transactions yet, it shows some information to help them get started! People can forget all about these things once a single transaction appears, and there was no way to see that page again! You might know it as the ["Looks like you are new here" page]({{ site.baseurl }}/uploads/blog/2023-06-11-LooksLikeYouAreNewHerePage.png)! So a helpful contributor made a very neat way of displaying it again whenever you want, which also as a side-effect made the existing in-wallet FAQ **much more accessible**! The link to Veil.tools now works there too.
 
 ## Veil (incentive) Bounty Tasks
 Please check Veil Telegram groups such as the Bounty Telegram, and other places where community work on Veil may have been notified. Any questions, please let us know and we will look into whether some old Veil bounties remain relevant, and you may find some new ones.
 
-"Ohcee" (Github name) received bounty for a second of his Veil GUI SETUP GUIDES <a href="/uploads/setup_guides/Veil-wallet-install-macOS-GUI.html">Veil wallet installation for the GUI Veil core wallet</a>. 2023-06-11 This is also linked from the [Wallet download / Get Started page](/get-started/).
+"Ohcee" (Github name) received bounty for a second of his Veil GUI SETUP GUIDES <a href="{{ site.baseurl }}/uploads/setup_guides/Veil-wallet-install-macOS-GUI.html">Veil wallet installation for the GUI Veil core wallet</a>. 2023-06-11 This is also linked from the [Wallet download / Get Started page]({{ site.baseurl }}/get-started/).
 
 - The Veil Project: [https://veil-project.com](https://veil-project.com)
 - Veil Project, Discord: [https://discord.veil-project.com](https://discord.veil-project.com)
@@ -64,7 +64,7 @@ The VEIL price and volume, last time checked on CoinGecko, there seems to be a b
 
 On the other hand, on CoinMarketCap they are using PROBIT's data, which in fact has days of zero volume, while TradeOgre's price and volume is perfectly correct, just not what CoinGecko is currently showing you!
 
-[CoinGecko-priceError](/uploads/blog/2023-06-11-CoinGeckoError.jpg) {Update: This error rarely happens. The CoinGecko price display is usually perfectly fine. See <a href="https://www.coingecko.com/en/coins/veil"  target="_blank" rel="noopener noreferrer">coingecko.com/en/coins/veil</a> .}
+[CoinGecko-priceError]({{ site.baseurl }}/uploads/blog/2023-06-11-CoinGeckoError.jpg) {Update: This error rarely happens. The CoinGecko price display is usually perfectly fine. See <a href="https://www.coingecko.com/en/coins/veil"  target="_blank" rel="noopener noreferrer">coingecko.com/en/coins/veil</a> .}
 
 Veil traders can, of course, check the Veil markets directly.
 - <a href="https://tradeogre.com/exchange/VEIL-BTC"  target="_blank" rel="noopener noreferrer">tradeogre.com/exchange/VEIL-BTC</a>

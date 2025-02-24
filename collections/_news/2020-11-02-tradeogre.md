@@ -11,7 +11,7 @@ excerpt: 'Veil is happy to announce the listing of Veil on TradeOgre exchange.'
 
 Veil is happy to announce the listing of Veil on TradeOgre exchange. TradeOgre supports a BTC-VEIL market, has no KYC requirements, and aims to offer user-friendly and reliable service. We hope you'll find what they offer pleasing.
 
-![](/uploads/news/2020-11-01-TOAnn.png)
+![]({{ site.baseurl }}/uploads/news/2020-11-01-TOAnn.png)
 
 Visit the TradeOgre bitcoin-veil market [here](https://tradeogre.com/exchange/BTC-VEIL).
 

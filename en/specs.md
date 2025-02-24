@@ -29,7 +29,7 @@ description: 'Veil blockchain technology specifications. View Veil’s codebase,
 | Block schedule | Block rewards will stop in approximately 2037, when a max coin supply of 300 million VEIL is reached. After this hard cap is reached, network fees will continue to incentivize the network. | 
 | Transaction fees | Variable based on data size.  |
 | Privacy technology | Veil uses mandatory RingCT+stealth addresses to anonymize the Basecoin layer. |
-| [Dandelion](/faqs/#dandelion) | Veil will use multiple stems, rather than one, to increase the level of IP anonymity and privacy. Inspired by BIP 156. |
+| [Dandelion]({{ site.baseurl }}/faqs/#dandelion) | Veil will use multiple stems, rather than one, to increase the level of IP anonymity and privacy. Inspired by BIP 156. |
 
 
 | Zerocoin [De-Anonymized](https://veil-project.com/blog/2019-09-07-exploit-update/) | |

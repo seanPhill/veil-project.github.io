@@ -12,7 +12,7 @@ description: 'Second blog entry'
 
 Let's start a tree-house club, but a very nerdy one. To enter the clubhouse, you must of course confirm your identity with a real password. Being a very nerdy bunch, we decide this password should be the answer to some riddle.
 
-![](/uploads/blog/2020-02-05-paul.png)
+![]({{ site.baseurl }}/uploads/blog/2020-02-05-paul.png)
 
 At first, in the infancy of our club, we're naive: we pick some super large number, say 42, and hand this number out to club members. We call this our "private key". Next, we compute its square — 1764 (the "public key") — and let the riddle be:
 

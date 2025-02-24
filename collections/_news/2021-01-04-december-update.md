@@ -13,7 +13,7 @@ description: 'This article provides insight into Veil project developments for t
 
 Without stating the obvious, 2020 was a challenging year for us all. We at Veil hope everyone reading this has pulled through in relatively good shape. This special monthly update will cover the year of 2020 as well as December.
 
-![](/uploads/news/2020-12-29-YEUpdate.png)
+![]({{ site.baseurl }}/uploads/news/2020-12-29-YEUpdate.png)
 
 ## 2020 Vision: Looking back
 

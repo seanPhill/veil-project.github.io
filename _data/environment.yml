@@ -1,0 +1,6 @@
+development:
+  url: "http://127.0.0.1:4000"
+  base_url: ""
+production:
+  url: "https://seanphill.github.io"
+  base_url: "/veil-project.github.io"

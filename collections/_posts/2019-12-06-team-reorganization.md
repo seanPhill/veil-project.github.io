@@ -20,7 +20,7 @@ Recently some considerable changes have been made within Veil. As ambitious a pr
 
 These divisions will work with a greater deal of autonomy and broader flow of communication between teams.
 
-![](/uploads/team/mimir.jpg)
+![]({{ site.baseurl }}/uploads/team/mimir.jpg)
 
 ## Mimir - Engineering
 Previously Tom ‘presstab’ Bradshaw served as Veil’s Lead Blockchain Architect, overseeing initial development and navigating Veil through the Zerocoin exploit. Now, however, presstab and Veil are parting ways, and Mimir is stepping up to helm software engineering. Where previously Tom handled much of Veil’s development through his own private team, Mimir is utilizing Veil’s expanded development team, grown through the Veil Development Bounty and staff recruitment. He is now also Project Manager for technology efforts.
@@ -29,7 +29,7 @@ Mimir brings extensive experience in software and blockchain development, a hand
 
 Mimir is a strong believer in communication both within the team and with the community and investors (as many have already discovered on Discord). As such, he is dedicated to offering frequent, substantial updates on development progress and goals, so look forward to more insight from within the project’s beating heart soon.
 
-![](/uploads/team/joshuamarriage.jpg)
+![]({{ site.baseurl }}/uploads/team/joshuamarriage.jpg)
 
 ## Joshua Marriage – Business Development
 We excitedly announced [back in July](https://veil-project.com/news/2019-07-joshuamarriage/) that Joshua Marriage officially joined the Veil team to lead business development efforts. Since then, Joshua’s role within Veil has been renegotiated, deepening his involvement considerably. Joshua now lends his business acumen and management skills to aid Veil developing partnerships and opportunities externally, and to refining internal operations. The 5 division structure, for example, was developed by Joshua with input from the team. He is now also Project Manager for business efforts.
@@ -38,7 +38,7 @@ As a co-founder of [Pip](https://pip.cash/) and Privacy Express, Joshua brings w
 
 Expect to hear more about upcoming business development news in the near future.
 
-![](/uploads/team/gabrielnergaard.jpg)
+![]({{ site.baseurl }}/uploads/team/gabrielnergaard.jpg)
 
 ## Gabriel Nergaard – Product Management
 Gabriel has been with Veil since inception, writing many of the articles featured on the Veil website, and much of its content as Veil’s Technical Writer. He also created and manages the Veil website itself alongside team member bndk. These efforts, however, only represent a segment of Gabriel’s skillset, which his new role heading Product Management better explores.
@@ -47,7 +47,7 @@ For over 20 years Gabriel has worked in product development, where he pays speci
 
 Gabriel is working hard with the team on improvements for what’s proven an overly complex wallet, simplifying the Veil user experience, and continuing to provide website support and articles as he previously has.
 
-![](/uploads/team/strontium.jpg)
+![]({{ site.baseurl }}/uploads/team/strontium.jpg)
 
 ## Strontium - Communications
 Like Gabriel, Strontium has been with Veil since inception. Also like Gabriel, Strontium is responsible for much of Veil’s written content. Strontium has previously filled the role of Chief Editor for Veil, aiding with content production from formulation through to publication.
@@ -61,7 +61,7 @@ Currently the management role for Research & Development is not something we’r
 
 Lastly, in addition to these division management roles, we’re happy to announce deeper involvement of another member of the team:
 
-![](/uploads/team/dicemaster.jpg)
+![]({{ site.baseurl }}/uploads/team/dicemaster.jpg)
 
 ## Tony Kim – Regional Coordinator
 Tony is another team member who has served since the project’s birth. An accomplished businessman, he’s held an advisory role, sharing his wealth of knowledge in business operations as well as making vital introductions for Veil.

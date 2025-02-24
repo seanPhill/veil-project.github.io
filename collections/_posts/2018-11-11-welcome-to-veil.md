@@ -77,7 +77,7 @@ A specific node, chosen at random, is first given the transaction data from the 
 
 Please look closely at the diagram below, displaying how Veil’s transactions with basecoin veil and Zerocoin veil work together. Note: this example uses whole numbers and neglects to include minting fees for the sake of simplicity.
 
-![](/uploads/blog/2018-11-19-change2.png)
+![]({{ site.baseurl }}/uploads/blog/2018-11-19-change2.png)
 
 ## Join us on this journey
 

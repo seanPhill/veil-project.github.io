@@ -12,7 +12,7 @@ description: 'In this article, we will get to know Veil spokesperson, Joshua Mar
 
 This article is a continuation of our series of interviews with members of the Veil team. In this installment, we’ll be chatting with Veil's Joshua Marriage.
 
-![](/uploads/team/joshuamarriage.jpg)
+![]({{ site.baseurl }}/uploads/team/joshuamarriage.jpg)
 
 **Tell us about yourself prior to getting into crypto. What were you doing? What were your interests?**
 

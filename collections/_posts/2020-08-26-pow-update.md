@@ -12,7 +12,7 @@ description: 'As we close in on the Veil updated Proof-of-Work consensus model, 
 
 As we close in on Veil’s new Proof-of-Work consensus model, this article explores the PoW update and what it means for the future of the Veil network and its users. It includes links to further information, resources, and development thought processes behind the changes.
 
-![](/uploads/blog/2020-08-19-PoWinfo.png)
+![]({{ site.baseurl }}/uploads/blog/2020-08-19-PoWinfo.png)
 
 Veil is nearing a hard fork to implement a new multi-algorithm Proof-of-Work consensus model. We’ve [covered the basics of the PoW system earlier](https://veil-project.com/blog/2019-future-consensus/), but below is a summary of the changes coming up.
 

@@ -10,7 +10,7 @@ description: 'Veil boasts a team of leading blockchain developers and industry p
   {% for member in site.team %}
     {% assign idx = forloop.index | modulo:2 %}
     <article up-expand class="flex-none w-full md:w-1/3 px-8 py-4 md:py-8 text-center">
-      <img src="/uploads/team/{{ member.portrait }}">
+      <a href="{{ site.baseurl }}/uploads/team/{{ member.portrait }}">
       <div class="uppercase font-medium text-xs tracking-wide text-blue-dark">
         {{ member.role }}{{ member.content }}
       </div>

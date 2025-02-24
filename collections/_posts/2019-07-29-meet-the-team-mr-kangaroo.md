@@ -11,7 +11,7 @@ description: 'In this article, we will get to know Veil designer, Mr Kangaroo'
 ---
 This article is a continuation of our series of interviews with members of the Veil team. In this installment, we’ll meet Veil designer Mr. Kangaroo.
 
-![](/uploads/team/misterkangaroo.jpg)
+![]({{ site.baseurl }}/uploads/team/misterkangaroo.jpg)
 
 **Tell us about yourself prior to getting into crypto. What were you doing? What were your interests?**
 

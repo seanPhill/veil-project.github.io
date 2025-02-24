@@ -12,7 +12,7 @@ description: 'This article provides insight into Veil project developments for t
 
 Welcome to the August monthly Veil project update article. Here you’ll find an overview of some of the work that’s taken place during the preceding month. 
 
-![](/uploads/news/2020-09-03-update.png)
+![]({{ site.baseurl }}/uploads/news/2020-09-03-update.png)
 
 ## Development updates
 
@@ -86,7 +86,7 @@ We currently have 10 Veiliens points up for grabs over on our [Discord server](h
 
 ## Twitter contest
 
-![](/uploads/news/2020-09-03-contest.png)
+![]({{ site.baseurl }}/uploads/news/2020-09-03-contest.png)
 
 We currently have another contest running on [Twitter](https://twitter.com/ProjectVeil/status/1299391296704929792). This time we're looking for a one tweet long piece of fiction featuring privacy. We have a runner-up prize this time, as well as the same 100 veil prizes as last time.
 
