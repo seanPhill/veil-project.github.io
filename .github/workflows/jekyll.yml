@@ -1,0 +1,13 @@
+name: Build Jekyll with Custom Baseurl
+on:
+  push:
+    branches: ["main"]  # Match your branch
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build and Deploy
+        uses: github/pages-deploy-action@v3.0.3  # GitHub’s Pages action
+        with:
+          jekyll_build_options: "--baseurl /veil-project.github.io"  # Override baseurl here
